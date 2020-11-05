@@ -1,0 +1,16 @@
+h1{
+    color:#ffabcd;
+    font-size:64px;
+    font-weight:600;
+    font-family:"Impact";
+    text-align:center;
+    background-color:palegreen;
+}
+p{
+    background-color:aquamarine;
+}
+body{
+    background-image:url(../images/back.jpeg);
+    background-repeat:no-repeat;
+    background-position:center;
+}

@@ -1,0 +1,24 @@
+h1{
+    color:whitesmoke;
+    text-align: center;
+    background-color:darkred;
+    
+}
+h2{
+    color:#ffab00;
+    text-align: center;
+    background-color:aqua
+}
+h3{
+    color:antiquewhite;
+}
+p{
+    color:navy;   
+}
+a{
+    color:royalblue;
+}
+body{
+    background-image:url(../images/b072.jpg);
+}
+
