@@ -1,0 +1,30 @@
+h1{
+    color:aliceblue;
+    text-align:center;
+    background-color:cornflowerblue;
+}
+
+h2{
+    color:aliceblue;
+    text-align:center;
+    background-color:wheat;
+}
+p{
+    text-align: center;
+}
+
+table{
+    color:black;
+    background-color:azure;
+    
+}
+body{
+    background-image:url(../images/05-white-brick.png);
+}
+ol{
+    color:whitesmoke;
+    background-image:url(../images/Melamine-wood-002.png)
+}
+a{
+    color:royalblue;
+}

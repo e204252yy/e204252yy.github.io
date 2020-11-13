@@ -5,15 +5,16 @@ h1{
     
 }
 h2{
-    color:#ffab00;
+    color:dimgray;
     text-align: center;
-    background-color:aqua
+    background-color:lightcyan
 }
 h3{
-    color:antiquewhite;
+    color:teal;
 }
 p{
-    color:navy;   
+    color:navy;
+    text-align: center;
 }
 a{
     color:royalblue;
