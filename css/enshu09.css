@@ -1,0 +1,9 @@
+/*pタグの中でもbluecolorクラスのものだけ装飾*/
+.bluecolor{
+    color:blue;
+}
+/*h1タグの中でもkudoというidのやつだけ装飾*/
+h1#kudo{
+    font-family:impact;
+    font-size:60px;
+}

@@ -1,0 +1,31 @@
+h1.a-h1{
+    color:blue;
+    text-align: center;
+    background-color: aqua;
+}
+h2.a-h2{
+    color:brown;
+    text-align: center;
+    background-color: darkgrey;
+}
+h2.b-h2{
+    color:crimson;
+    text-align: center;
+    background-color: fuchsia;
+}
+
+
+h1.b-h1{
+    color:blueviolet;
+    text-align: center;
+    background-color: chartreuse;
+}
+body{
+    background-image:url(../images/03.jpg);
+}
+p.p1{
+    color:white;
+}
+p.p2{
+    color:yellow;
+}
