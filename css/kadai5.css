@@ -1,0 +1,85 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color: red;
+    font-size: 10px;
+    color:white;
+    margin-bottom: 20px;
+}
+div.menu{
+    font-size: 0;
+    width:1000px;
+    height:320px;
+}
+div.menuitem1{
+    display:inline-block;
+    vertical-align: top;
+    width:250px;
+    height:320px;
+    background-color:azure;
+    margin-right: 50px;
+}
+div.menu1{
+    display:inline-block;
+    vertical-align: top;
+    width:250px;
+    height:100px;
+    background-color:red;
+    margin-bottom: 10px;
+    font-size:10px;
+    text-align: left;
+}
+div.menu2{
+    display:inline-block;
+    vertical-align: top;
+    width:250px;
+    height:100px;
+    background-color:green;
+    margin-bottom: 10px;
+    font-size:10px;
+    text-align: left;
+}
+div.menu3{
+    display:inline-block;
+    vertical-align: top;
+    width:250px;
+    height:100px;
+    background-color:red;
+    font-size:10px;
+    text-align: left;
+    
+}
+div.menuitem2{
+    display:inline-block;
+    vertical-align: top;
+    width:700px;
+    height:320px;
+    background-color:gainsboro;
+}
+div.image1{
+    display:inline-block;
+    vertical-align:top;
+    width:700px;
+    height:300px;
+    background-color:cornflowerblue;
+    font-size: 10px;
+    text-align: right;
+}
+div.sentences{
+    display: inline-block;
+    vertical-align: top;
+    width:700px;
+    height:20px;
+    background-color: aquamarine;
+    font-size: 10px;
+    text-align: right;
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color:aqua;
+    font-size: 10px;
+    text-align: right;
+    margin-top: 20px;    
+}
